@@ -1,7 +1,7 @@
 ---
-title: Build a Dispatch Command Centre with ToolJet MCP
-link: https://blog.tooljet.com/field-operations-command-centre-tooljet-mcp/
-published: '2026-09-18'
+title: Build a Patient Flow Board With ToolJet MCP for bed managers
+link: https://blog.tooljet.com/patient-flow-board-app/
+published: '2026-10-07'
 provider: tooljet
 repo: https://github.com/api-evangelist/tooljet
 domain: blog.tooljet.com
